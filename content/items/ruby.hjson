@@ -1,0 +1,6 @@
+type: material
+name: Ruby
+description: A rare-ish gem.
+hardness: 2
+cost: 2
+color: ff0000

@@ -1,0 +1,5 @@
+type: floor
+name: Sapphire Dust
+itemDrop: sapphire-dust
+variants: 3
+playerUnmineable: true

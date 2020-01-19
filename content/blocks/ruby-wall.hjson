@@ -1,0 +1,10 @@
+name: Ruby Wall
+description: A wall made of ruby. Not particularly useful or interesting.
+type: Wall
+health: 600
+size: 2
+requirements: [
+  ruby/40
+]
+category: defense
+research: copper-wall

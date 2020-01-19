@@ -1,0 +1,23 @@
+name: Ruby Wraith Factory
+description: Makes Ruby Wraith units.
+type: UnitFactory
+unitType: ruby-wraith
+size: 2
+produceTime: 350
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      silicon/10
+      ruby/5
+    ]
+  }
+}
+category: units
+research: kiln
+requirements: [
+  ruby/70
+  gem-compound/40
+  silicon/40
+  titanium/20
+]

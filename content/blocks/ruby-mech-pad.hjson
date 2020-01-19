@@ -1,0 +1,16 @@
+name: Ruby Mech Pad
+description: Transform into the Ruby mech.
+type: MechPad
+mech: ruby-mech
+size: 2
+consumes: {
+  power: 0.7
+}
+category: upgrade
+research: kiln
+requirements: [
+  ruby/70
+  gem-compound/40
+  silicon/40
+  graphite/50
+]

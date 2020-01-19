@@ -1,0 +1,6 @@
+name: "ruby-mod"
+displayName: "[red]ruby[blue] Mod"
+author: "NitroPheonix"
+description: "A mod completely rotating around Rubies and Sapphires!"
+version: "1.0"
+minGameVersion: "102.3"

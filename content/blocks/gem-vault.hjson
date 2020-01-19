@@ -1,0 +1,14 @@
+name: Electrum Vault
+description: shining way of storing items. yes i know i cant make puns even if my life depended on it. but i can crack some eggcelent egg puns. ive been kneeding the occassion to rise. some are pretty cheesy but i think theyre great.
+type: Vault
+itemCapacity: 2500
+hasItems: true
+health: 2000
+size: 3
+requirements: [
+  gem-compound/20
+  titanium/60
+  thorium/40
+]
+category: effect
+research: vault
